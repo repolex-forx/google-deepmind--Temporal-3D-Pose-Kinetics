@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/google-deepmind/Temporal-3D-Pose-Kinetics/commit/a8369cd9d626fd661ff54eb34e733ea9956b9f86",
       "git:hexsha": "a8369cd9d626fd661ff54eb34e733ea9956b9f86",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-06T08:12:48.808517+00:00"
     }
   ]
 }
