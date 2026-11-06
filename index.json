@@ -1,0 +1,11 @@
+{
+  "org": "google-deepmind",
+  "repo": "Temporal-3D-Pose-Kinetics",
+  "versions": [
+    {
+      "commit": "a8369cd9d626fd661ff54eb34e733ea9956b9f86",
+      "tag": "",
+      "parsed_at": "2026-11-06T08:12:48.809019+00:00"
+    }
+  ]
+}
